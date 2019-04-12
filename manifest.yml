@@ -1,0 +1,5 @@
+ applications:
+ - name: determined-meitner
+   memory: 256M
+   host: determined-meitner
+   buildpack: staticfile_buildpack
